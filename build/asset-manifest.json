@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce29d6b4.css",
+    "main.js": "/static/js/main.eeac745b.js",
+    "static/js/453.ffe04d33.chunk.js": "/static/js/453.ffe04d33.chunk.js",
+    "static/media/bg.png": "/static/media/bg.1f3f03fbff8129fe60bc.png",
+    "static/media/Pixel-LCD-7.woff": "/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
+    "index.html": "/index.html",
+    "main.ce29d6b4.css.map": "/static/css/main.ce29d6b4.css.map",
+    "main.eeac745b.js.map": "/static/js/main.eeac745b.js.map",
+    "453.ffe04d33.chunk.js.map": "/static/js/453.ffe04d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce29d6b4.css",
+    "static/js/main.eeac745b.js"
+  ]
+}
